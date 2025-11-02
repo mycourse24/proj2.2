@@ -48,7 +48,6 @@ text-decoration: underline overline;
 .interest2 {
 background-color: gray;
 list-style-type: none;
-margin: none;
 padding: 20px;
 position: relative;
 left: 43%;
@@ -64,7 +63,6 @@ text-align: center;
 }
 
 
-}
 
 .interest2 {
   list-style-type: none;
